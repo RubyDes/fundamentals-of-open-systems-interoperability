@@ -5,7 +5,7 @@ services:
     build: .
     container_name: 2048-game-1
     ports:
-      - '8080:8080'
+      - '8080:80o80'
     volumes: 
       - ./:/app
   game2:
